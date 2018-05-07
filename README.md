@@ -17,7 +17,7 @@ Django_Application$ sudo bash install.sh
 
 Now to RUN the Django Server follow the following commands:
 ```
-Django_Application/src$ cd src/django_GUI/
+Django_Application$ cd src/django_GUI/
 Django_Application/src/django_GUI$ python3 manage.py runserver 0:8000
 ```
 
